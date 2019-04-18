@@ -1,5 +1,7 @@
 If you use this data for research purposes, please don't forget to cite our paper:
 
+[A corpus to support eHealth Knowledge Discovery technologies](https://doi.org/10.1016/j.jbi.2019.103172)
+
 ```
 Alejandro Piad-Morffis, Yoan Gutiérrez, Rafael Muñoz,
 A corpus to support eHealth Knowledge Discovery technologies,
